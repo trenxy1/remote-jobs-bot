@@ -3898,5 +3898,35 @@
     ],
     "summary": "Headquarters: United Kingdom (remote) About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, a",
     "scraped_at": "2026-08-22T18:25:54.412485+00:00"
+  },
+  {
+    "title": "Java Engineer - Latin America",
+    "company": "Azumo",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
+    "source": "weworkremotely-programming",
+    "date_posted": "Tue, 04 Aug 2026 22:12:17 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: Dominican Republic URL: http://azumo.com DescriptionAzumo is currently looking for highly motivated Java Senior Engineers to develop and enhance high performing and scalable backend infrastructure used by millions of users. The position is fully remote based in Latin America. We will only be considering candidates based in Latin America, as most of our engineers are based there.This ",
+    "scraped_at": "2026-08-23T06:36:38.032695+00:00"
+  },
+  {
+    "title": "AI-Assisted Software Engineer, Web Applications",
+    "company": "LMG Staffing Solutions",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+    "source": "weworkremotely-programming",
+    "date_posted": "Tue, 04 Aug 2026 22:12:17 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: Medellín, Medellin, Colombia URL: http://logicalmediagroup.com DescriptionOverview We are looking for a software engineer to build and scale our internal web applications. Your mission is to deliver high-quality, maintainable solutions using a Next.js front end and a Django back end, while actively using AI tools and Model Context Protocols (MCPs) to accelerate development and enforc",
+    "scraped_at": "2026-08-23T06:36:38.032777+00:00"
   }
 ]
