@@ -4078,5 +4078,50 @@
     ],
     "summary": "Headquarters: Remote - US This is Engineering at Lattice Lattice's Engineering team is dedicated to building cutting-edge solutions that empower people and organizations to thrive. As AI becomes fundamental to every product experience, ensuring those systems are trustworthy, measurable, and continuously improving is one of the company's most important engineering challenges. The AI Intelligence Qu",
     "scraped_at": "2026-08-23T18:24:52.355186+00:00"
+  },
+  {
+    "title": "Senior DevOps Engineer",
+    "company": "Lemon.io",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Mon, 24 Aug 2026 11:52:38 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: New York, NY URL: https://lemon.io Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, softwa",
+    "scraped_at": "2026-08-24T12:44:03.598946+00:00"
+  },
+  {
+    "title": "Application Security Engineer II",
+    "company": "Abnormal",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/abnormal-application-security-engineer-ii",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Mon, 24 Aug 2026 07:30:47 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: Remote - USA About the Role Abnormal AI is looking for an Application Security Engineer II to secure the AI-powered systems at the core of our AWS-based platform (LLM-integrated features, agentic workflows, MCP connectors, and the model supply chain) against threats like prompt injection at production scale. This is an individual contributor role that blends deep application security",
+    "scraped_at": "2026-08-24T12:44:03.599018+00:00"
+  },
+  {
+    "title": "Critical Situation Manager",
+    "company": "Abnormal",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/abnormal-critical-situation-manager",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Mon, 24 Aug 2026 07:30:47 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: Remote - USA The Critical Situation Manager owns the customer-facing response when a customer's trust in the platform has been shaken by a significant efficacy or product concern.&nbsp; This role engages when a customer's feedback is substantive and requires a coordinated investigation and response from R&amp;D and other technical teams. The Critical Situation Manager leads that inve",
+    "scraped_at": "2026-08-24T12:44:03.599088+00:00"
   }
 ]
