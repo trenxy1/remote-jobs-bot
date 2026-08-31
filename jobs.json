@@ -4363,5 +4363,35 @@
     ],
     "summary": "Headquarters: Summary:We are seeking an experienced Python Backend Developer to design, build, and deploy scalable AI-powered applications using Retrieval-Augmented Generation, large language models, and agentic AI frameworks. The role will focus on delivering a production-grade RAG system and AI chatbot that can securely integrate with enterprise data, APIs, databases, and cloud services.General ",
     "scraped_at": "2026-08-31T03:36:49.416015+00:00"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "CircleCI",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Mon, 31 Aug 2026 07:30:46 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: Remote, Ontario, Canada About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn",
+    "scraped_at": "2026-08-31T12:41:02.192171+00:00"
+  },
+  {
+    "title": "Cyber Security GTM Leader",
+    "company": "Databricks",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/databricks-cyber-security-gtm-leader",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Mon, 31 Aug 2026 07:30:46 +0000",
+    "africa_eligible": "yes",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: Remote - California; Remote - New York SLSQ327R408 As the Cybersecurity Go-to-market (GTM) Leader, you will drive the global GTM strategy and execution of the Cybersecurity business at Databricks. You will play a pivotal role in accelerating cyber revenue growth by building scalable assets for the field, designing enablement programs, and driving key partnerships. You will be the dom",
+    "scraped_at": "2026-08-31T12:41:02.192340+00:00"
   }
 ]
