@@ -4783,5 +4783,20 @@
     ],
     "summary": "Headquarters: Remote Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.We're look",
     "scraped_at": "2026-09-05T09:56:46.326771+00:00"
+  },
+  {
+    "title": "Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d)",
+    "company": "Charisma-tec",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d",
+    "source": "weworkremotely-programming",
+    "date_posted": "Tue, 18 Aug 2026 20:31:54 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: Düsseldorf What you’ll do:Keep CI/CD pipelines running across multiple repositories and teams.Improve and standardize pipelines: reusable templates, consistent steps, fewer surprises.Maintain and improve developer tools such as Azure DevOps, GitHub Enterprise, and SonarQube (or comparable tools).Add practical checks to pipelines: tests, code quality gates, and basic security scanning",
+    "scraped_at": "2026-09-06T19:59:18.887516+00:00"
   }
 ]
