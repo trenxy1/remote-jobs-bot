@@ -4798,5 +4798,50 @@
     ],
     "summary": "Headquarters: Düsseldorf What you’ll do:Keep CI/CD pipelines running across multiple repositories and teams.Improve and standardize pipelines: reusable templates, consistent steps, fewer surprises.Maintain and improve developer tools such as Azure DevOps, GitHub Enterprise, and SonarQube (or comparable tools).Add practical checks to pipelines: tests, code quality gates, and basic security scanning",
     "scraped_at": "2026-09-06T19:59:18.887516+00:00"
+  },
+  {
+    "title": "Digital Design Diagram Creators",
+    "company": "Summa Linguae Technologies",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/summa-linguae-technologies-digital-design-diagram-creators",
+    "source": "weworkremotely-programming",
+    "date_posted": "Tue, 18 Aug 2026 20:32:04 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: Kraków, Poland DATAmundi.ai is preparing for an upcoming large-scale dataset project. We expect to onboard approximately 50–100 experts within a short timeframe.To support smooth and efficient launch, we are expanding our expert pool in advance.Who We Are Looking ForIndividuals with knowledge or studies in:digital systems,hardware design,digital logic and electronics,FPGA/ASIC fundam",
+    "scraped_at": "2026-09-07T11:34:49.451252+00:00"
+  },
+  {
+    "title": "Senior DevOps Engineer (m/f/d)",
+    "company": "Myneva",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d",
+    "source": "weworkremotely-programming",
+    "date_posted": "Tue, 18 Aug 2026 20:32:02 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: Portugal, remote, Germany, Greifswald Your mission As a Senior DevOps Engineer, you play a central role in enabling reliable, scalable, and observable operation of a new, strategically important web-based product within the myneva portfolio. You work closely with development teams to ensure that software can be deployed, operated, and evolved efficiently across different environments",
+    "scraped_at": "2026-09-07T11:34:49.451333+00:00"
+  },
+  {
+    "title": "Senior SRE - Networks",
+    "company": "Fastly",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Mon, 07 Sep 2026 07:30:54 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: United Kingdom (Remote) Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage",
+    "scraped_at": "2026-09-07T11:34:49.996461+00:00"
   }
 ]
