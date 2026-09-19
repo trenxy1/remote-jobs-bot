@@ -6148,5 +6148,50 @@
     ],
     "summary": "Headquarters: Remote, United States About Us Galileo is a team-based medical practice working to improve the quality and affordability of health care for all. Operating across 50 states, Galileo offers high-touch, data-driven, multi-specialty, longitudinal care to diverse and complex patients—on the phone, in the home, and everywhere in between. Regional and national health plans, employers, and F",
     "scraped_at": "2026-09-19T03:07:42.892162+00:00"
+  },
+  {
+    "title": "Account Manager L4",
+    "company": "Wrike",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/wrike-account-manager-l4",
+    "source": "weworkremotely-customer-support",
+    "date_posted": "Sat, 19 Sep 2026 07:31:10 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "customer-support"
+    ],
+    "summary": "Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. &nbsp; Wrike is our people, not a place. As a distributed team, we own our",
+    "scraped_at": "2026-09-19T10:17:58.858428+00:00"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "CircleCI",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Sat, 19 Sep 2026 07:31:10 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: Ontario, Canada (Remote) About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We lear",
+    "scraped_at": "2026-09-19T10:17:59.132316+00:00"
+  },
+  {
+    "title": "Security Operations Engineer",
+    "company": "CircleCI",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Sat, 19 Sep 2026 07:31:10 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: Ontario, Canada (Remote) Security Operations Engineer About the Team The Security Operations team plays a critical role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape. From incident response to hardening our cloud and CI/CD environments, the team works closely with engineering to keep CircleCI secure, resilient, and ready for ",
+    "scraped_at": "2026-09-19T10:17:59.132417+00:00"
   }
 ]
