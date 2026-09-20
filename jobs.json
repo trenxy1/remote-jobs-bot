@@ -6193,5 +6193,35 @@
     ],
     "summary": "Headquarters: Ontario, Canada (Remote) Security Operations Engineer About the Team The Security Operations team plays a critical role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape. From incident response to hardening our cloud and CI/CD environments, the team works closely with engineering to keep CircleCI secure, resilient, and ready for ",
     "scraped_at": "2026-09-19T10:17:59.132417+00:00"
+  },
+  {
+    "title": "Director of Production Engineering",
+    "company": "Legion",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+    "source": "weworkremotely-programming",
+    "date_posted": "Mon, 07 Sep 2026 07:30:54 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: Remote, United States Director of Production Engineering&nbsp; Remote, United States About this Position Are you passionate about building the reliability, automation, and security foundations that let engineering teams move fast with confidence? At Legion, we are seeking a Director of Engineering, DevOps &amp; SRE to lead the teams responsible for the availability, scalability, and ",
+    "scraped_at": "2026-09-20T10:37:06.030563+00:00"
+  },
+  {
+    "title": "Developer Advocate - Service Management EMEA",
+    "company": "Datadog",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Sun, 20 Sep 2026 07:31:09 +0000",
+    "africa_eligible": "yes",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: France, Remote; Portugal, Remote; Spain, Remote; The Netherlands, Remote We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your im",
+    "scraped_at": "2026-09-20T10:37:06.554004+00:00"
   }
 ]
