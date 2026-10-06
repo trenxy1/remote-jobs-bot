@@ -7183,5 +7183,65 @@
     ],
     "summary": "Headquarters: Belarus, Georgia, Uzbekistan, Kazakhstan, Kyrgyzstan, Armenia URL: http://epam.com We are seeking a Senior Dynamics CRM Developer (VoC) to join our team and lead the implementation and enhancement of the Voice of Customer (VoC) module within Microsoft Dynamics 365. This role focuses on capturing, analyzing and acting on customer feedback to improve utility service deliveries across w",
     "scraped_at": "2026-10-06T04:51:42.189437+00:00"
+  },
+  {
+    "title": "Salesforce Platform Lead for Global Industrial Company",
+    "company": "Toptal",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-platform-lead-for-global-industrial-company",
+    "source": "weworkremotely-programming",
+    "date_posted": "Thu, 24 Sep 2026 14:45:20 +0000",
+    "africa_eligible": "yes",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: We are looking for a Salesforce Platform Lead for a global company. Their goal is to own the Salesforce platform as a product, improving release health, security, engineering standards, reusable patterns, and AI-assisted delivery.General InformationLocation: Remote. Talents from the USA or Canada.French/English bilingual candidates are preferred for the Montreal hub.Overlap: 6hs with",
+    "scraped_at": "2026-10-06T12:44:41.814989+00:00"
+  },
+  {
+    "title": "Customer Success Manager — Japanese & Korean Speaking (Remote)",
+    "company": "Dropbox",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/dropbox-customer-success-manager-japanese-korean-speaking-remote",
+    "source": "weworkremotely-customer-support",
+    "date_posted": "Tue, 06 Oct 2026 07:31:16 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "customer-support"
+    ],
+    "summary": "Headquarters: Remote - Japan Role Description As a Customer Success Manager at Dropbox, you will own the post-sale customer strategy and relationship for a portfolio of customers. You will help customers realize measurable value from their investment while driving product adoption, retention, growth, and Net Revenue Retention (NRR). You will serve as a trusted advisor throughout the customer journ",
+    "scraped_at": "2026-10-06T12:44:42.198730+00:00"
+  },
+  {
+    "title": "Principal Solutions Consultant",
+    "company": "PagerDuty",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Tue, 06 Oct 2026 07:31:09 +0000",
+    "africa_eligible": "yes",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: Remote (USA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry s",
+    "scraped_at": "2026-10-06T12:44:42.423374+00:00"
+  },
+  {
+    "title": "Engineering Manager, Cloud Engineering",
+    "company": "LaunchDarkly",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-cloud-engineering",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Tue, 06 Oct 2026 07:31:09 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: Remote - US About the Job: We’re looking for an Engineering Manager to lead LaunchDarkly’s Cloud Engineering team, the team responsible for the foundational infrastructure our products and engineering teams depend on. Cloud Engineering owns LaunchDarkly’s AWS accounts and networking, multi-region Kubernetes infrastructure, Terraform and GitOps workflows, CockroachDB operations, disas",
+    "scraped_at": "2026-10-06T12:44:42.423530+00:00"
   }
 ]
