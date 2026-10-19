@@ -8323,5 +8323,65 @@
     ],
     "summary": "Headquarters: Remote - NA, APAC, EMEA PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform offers both Postgres and Vitess clusters. Vitess, an open-source database clustering system for horizontal scaling of MySQL, enables businesses to efficiently handle large-scale data workloads — without sacrificing developer experience. Our customers entrust us with wha",
     "scraped_at": "2026-10-18T10:23:24.789329+00:00"
+  },
+  {
+    "title": "Abuse Research Engineer",
+    "company": "Stripe",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+    "source": "weworkremotely-programming",
+    "date_posted": "Sun, 04 Oct 2026 07:31:08 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: Remote from the US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead",
+    "scraped_at": "2026-10-19T12:07:23.770523+00:00"
+  },
+  {
+    "title": "Technical Account Manager",
+    "company": "Expel",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/expel-technical-account-manager",
+    "source": "weworkremotely-customer-support",
+    "date_posted": "Mon, 19 Oct 2026 07:31:28 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "customer-support"
+    ],
+    "summary": "Headquarters: Remote You've spent your career helping security teams get more from their technology. You understand what it takes to operationalize security tooling across an enterprise, and your credibility with customers comes from technical depth and hands-on problem solving. As a Technical Account Manager at Expel, you're the dedicated technical advisor for a portfolio of enterprise security p",
+    "scraped_at": "2026-10-19T12:07:24.580700+00:00"
+  },
+  {
+    "title": "Senior Technical Support Engineer",
+    "company": "Alloy",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/alloy-senior-technical-support-engineer",
+    "source": "weworkremotely-customer-support",
+    "date_posted": "Mon, 19 Oct 2026 07:31:13 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "customer-support"
+    ],
+    "summary": "Headquarters: Remote Alloy is where you belong! Alloy helps solve the identity risk problem for companies that offer financial products by enabling them to outpace fraud and confidently serve more people around the world. Over 800 of the world’s largest financial institutions and fintechs turn to Alloy to take control of fraud, credit, and compliance risk, and grow with the clearest picture of the",
+    "scraped_at": "2026-10-19T12:07:24.580860+00:00"
+  },
+  {
+    "title": "Senior Security Engineer, Detection & Response",
+    "company": "Flexport",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
+    "source": "weworkremotely-devops-sysadmin",
+    "date_posted": "Mon, 19 Oct 2026 07:31:25 +0000",
+    "africa_eligible": "yes",
+    "tags": [
+      "devops-sysadmin"
+    ],
+    "summary": "Headquarters: U.S. Remote About Flexport:&nbsp; At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport ",
+    "scraped_at": "2026-10-19T12:07:24.952184+00:00"
   }
 ]
