@@ -9988,5 +9988,50 @@
     ],
     "summary": "Headquarters: San Francisco, US (Remote) About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpa",
     "scraped_at": "2026-11-06T13:43:58.589981+00:00"
+  },
+  {
+    "title": "Staff Software Engineer, Revenue Systems",
+    "company": "Squarespace",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems",
+    "source": "weworkremotely-programming",
+    "date_posted": "Sun, 18 Oct 2026 07:30:58 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: New York City; Remote Squarespace is seeking a talented Staff Software Engineer to support and evolve the systems at the core core of our monetization platform: billing, payments and orders. In this role, you will provide technical oversight over the critical monetization machinery that accepts orders, processes payments and bills subscriptions. You will regularly collaborate with en",
+    "scraped_at": "2026-11-07T12:26:29.934051+00:00"
+  },
+  {
+    "title": "Staff Software Engineer - Connectivity",
+    "company": "Dremio",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity",
+    "source": "weworkremotely-programming",
+    "date_posted": "Sun, 18 Oct 2026 07:30:58 +0000",
+    "africa_eligible": "yes",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data",
+    "scraped_at": "2026-11-07T12:26:29.934136+00:00"
+  },
+  {
+    "title": "Customer Value Architect III",
+    "company": "Mixpanel",
+    "location_policy": "remote",
+    "salary_range": null,
+    "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1",
+    "source": "weworkremotely-programming",
+    "date_posted": "Sat, 17 Oct 2026 07:30:54 +0000",
+    "africa_eligible": "unclear",
+    "tags": [
+      "programming"
+    ],
+    "summary": "Headquarters: Remote, US About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com.About th",
+    "scraped_at": "2026-11-07T12:26:29.934223+00:00"
   }
 ]
